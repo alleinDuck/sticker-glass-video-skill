@@ -1,0 +1,4 @@
+interface:
+  display_name: "贴纸科普 · 玻璃点缀"
+  short_description: "先读取SRT、视频和素材说明，再给本次提示词与审阅包，确认后生成视频"
+  default_prompt: "使用 $ai-sticker-glass-video，先读取我提供的本次 SRT、视频和可选素材及使用说明，生成针对本次内容的制作提示词；等我提交或明确采用提示词后输出完整审阅包，确认后再生成视频。"
